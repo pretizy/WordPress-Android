@@ -358,8 +358,6 @@ Language: bg
 	<string name="enter_your_password_instead">Въведете паролата си</string>
 	<string name="web_address_dialog_hint">Ще се показва когато коментирате.</string>
 	<string name="username_email">Имейл или потребителско име</string>
-	<string name="jetpack_not_connected_message">Разширенитео Jetpack е инсталирано, но не е свързано с WordPress.com. Желаете ли да свържете Jetpack?</string>
-	<string name="jetpack_not_connected">Разширението Jetpack не е свързано</string>
 	<string name="new_editor_reflection_error">Визуалният редактор не е съвместим с устройството ви. \n        Беше изключен автоматично.</string>
 	<string name="stats_insights_latest_post_no_title">(без заглавие)</string>
 	<string name="capture_or_pick_photo">Заснемане или избор на снимка</string>
@@ -1021,7 +1019,6 @@ Language: bg
 	<string name="reader_toast_err_remove_tag">Етикетът не може да бъде махнат</string>
 	<string name="reader_toast_err_add_tag">Етикетът не може да бъде добавен</string>
 	<string name="reader_title_applog">Дневник на приложението</string>
-	<string name="jetpack_message_not_admin">Разширението Jetpack е нужен за събиране/изобразяване на статистики. Моля свържете се с администратора на уебсайта.</string>
 	<string name="fatal_db_error">Възникна грешка при създаване на базата от данни на приложението. Моля преинсталирайте приложението.</string>
 	<string name="error_blog_hidden">Този блог е скрит и не може да бъде зареден. Пуснете го отново от настройките и опитайте отново.</string>
 	<string name="error_deleting_page">Възникна грешка при изтриването на страницата.</string>
@@ -1154,7 +1151,6 @@ Language: bg
 	<string name="reader_btn_follow">Последване</string>
 	<string name="reader_btn_share">Споделяне</string>
 	<string name="reader_untitled_post">(Неозаглавен)</string>
-	<string name="jetpack_not_found">Jetpack не беше намерен</string>
 	<string name="empty_list_default">Списъкът е празен</string>
 	<string name="media_add_popup_title">Добавяне в библиотеката с файлове</string>
 	<string name="passcode_turn_on">Вклюши ПИН ключ</string>

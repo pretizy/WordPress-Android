@@ -412,7 +412,6 @@ Language: fr
 	<string name="checking_username">Vérification du nom d’utilisateur</string>
 	<string name="jetpack_different_com_account">Les sites Jetpack liés à des comptes WordPress.com différents ne sont pas supportés</string>
 	<string name="jetpack_use_com_account">Pour ajouter votre site Jetpack, connectez-vous au même compte WordPress.com que vous utilisez pour vous connecter à Jetpack.</string>
-	<string name="jetpack_message">L’extension Jetpack doit être installée et activée. Voulez-vous installer ou activer Jetpack&amp;nbsp;?</string>
 	<string name="error_media_load">Impossible de charger le média</string>
 	<string name="error_media_refresh_no_connection">Connexion obligatoire pour actualiser la bibliothèque</string>
 	<string name="error_media_unauthorized">Vous n’avez pas le droit de voir ni de modifier le média</string>
@@ -592,8 +591,6 @@ Language: fr
 	<string name="enter_your_password_instead">Saisissez votre mot de passe à la place</string>
 	<string name="web_address_dialog_hint">Affiché publiquement quand vous commentez.</string>
 	<string name="username_email">Adresse e-mail ou identifiant</string>
-	<string name="jetpack_not_connected_message">L\'extension Jetpack est installée, mais pas connecté à WordPress.com. Voulez-vous connecter Jetpack ?</string>
-	<string name="jetpack_not_connected">L\'extension Jetpack n\'est pas connectée</string>
 	<string name="new_editor_reflection_error">L\'éditeur visuel n\'est pas compatible avec votre appareil.\nIl a été automatiquement désactivé.</string>
 	<string name="stats_insights_latest_post_no_title">(pas de titre)</string>
 	<string name="capture_or_pick_photo">Prenez une photo ou choisissez-en une</string>
@@ -1330,7 +1327,6 @@ Language: fr
 	<string name="notifications_empty_all">Pas (encore) de notifications.</string>
 	<string name="comment_status_trash">À la Corbeille</string>
 	<string name="invalid_site_url_message">Vérifiez que l\'URL saisie est valide</string>
-	<string name="jetpack_message_not_admin">L\'extension Jetpack est requise. Contactez l\'administrateur du site.</string>
 	<string name="error_deleting_page">Une erreur s\'est produite lors de la suppression de la page</string>
 	<string name="error_refresh_media">Impossible d’actualiser le contenu multimédia pour l’instant.</string>
 	<string name="file_error_create">Impossible de créer un fichier temporaire pour le téléversement de média. Veuillez vérifier que vous disposez d\'assez d\'espace libre sur votre appareil.</string>
@@ -1370,7 +1366,6 @@ Language: fr
 	<string name="signing_in">Connexion…</string>
 	<string name="media_add_popup_title">Ajouter à la bibliothèque média</string>
 	<string name="empty_list_default">Cette liste est vide</string>
-	<string name="jetpack_not_found">Le module Jetpack est introuvable</string>
 	<string name="reader_untitled_post">(Sans Titre)</string>
 	<string name="reader_btn_share">Partager</string>
 	<string name="reader_btn_follow">Suivre</string>

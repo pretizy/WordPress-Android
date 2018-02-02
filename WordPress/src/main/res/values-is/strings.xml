@@ -51,7 +51,6 @@ Language: is
 	<string name="checking_username">Athuga notandanafn</string>
 	<string name="jetpack_different_com_account">Jetpack vefir sem tilheyra öðrum WordPress.com aðgöngum eru ekki studdir</string>
 	<string name="jetpack_use_com_account">Til þess að bæta Jetpack vefnum þínum við, skráðu þig inn í WordPress.com aðganginn sem þú notaðir til þess að tengja Jetpack.</string>
-	<string name="jetpack_message">Jetpack viðbótin verður að vera uppsett og virk. Viltu setja upp eða virkja Jetpack?</string>
 	<string name="error_media_load">Get ekki hlaðið skrá</string>
 	<string name="error_media_refresh_no_connection">Tenging þarf að vera til staðar til að endurfríska safn</string>
 	<string name="error_media_unauthorized">Þú hefur ekki heimild til þess að skoða eða breyta skrá</string>
@@ -225,8 +224,6 @@ Language: is
 	<string name="enter_your_password_instead">Sláðu inn lykilorðið þitt í staðinn</string>
 	<string name="web_address_dialog_hint">Birt öllum þegar þú skrifar athugasemd.</string>
 	<string name="username_email">Netfang eða notandanafn</string>
-	<string name="jetpack_not_connected_message">Jetpack viðbótin er uppsett en ekki tengd við WordPress.com. Viltu tengja Jetpack?</string>
-	<string name="jetpack_not_connected">Jetpack viðbótin er ótengd</string>
 	<string name="new_editor_reflection_error">Sjónrænn ritill er ekki samhæfður þínu tæki. Hann var\n	sjálfvirkt gerður óvirkur.</string>
 	<string name="stats_insights_latest_post_no_title">(án titils)</string>
 	<string name="capture_or_pick_photo">Taka eða velja mynd</string>
@@ -879,7 +876,6 @@ Language: is
 	<string name="reader_toast_err_remove_tag">Gat ekki fjarlægt þetta merki</string>
 	<string name="reader_toast_err_add_tag">Gat ekki bætt þessu merki við</string>
 	<string name="reader_title_applog">Atburðarskrá forrits</string>
-	<string name="jetpack_message_not_admin">Jetpack viðbótin er nauðsynleg. Hafðu samband við vefstjóra.</string>
 	<string name="fatal_db_error">Villa kom upp við að stofna gagnagrunn smáforrits. Reyndu að setja smáforritið aftur upp.</string>
 	<string name="error_blog_hidden">Þetta blogg er falið og ekki hægt að sækja það. Virkjaðu það aftur í stillingum og reyndu aftur.</string>
 	<string name="wordpress_blog">WordPress blogg</string>
@@ -1011,7 +1007,6 @@ Language: is
 	<string name="reader_btn_follow">Fylgja</string>
 	<string name="reader_btn_share">Deila</string>
 	<string name="reader_untitled_post">(Án titils)</string>
-	<string name="jetpack_not_found">Jetpack viðbót finnst ekki</string>
 	<string name="empty_list_default">Þessi listi er tómur</string>
 	<string name="media_add_popup_title">Bæta í skráarsafn</string>
 	<string name="passcode_turn_on">Kveikja á PIN læsingu</string>

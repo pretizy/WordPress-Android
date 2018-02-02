@@ -406,7 +406,6 @@ Language: ms
 	<string name="checking_username">Memeriksa nama pengguna</string>
 	<string name="jetpack_different_com_account">Laman-laman Jetpack kepunyaan akaun WordPress.com yang berlainan adalah tidak disokong</string>
 	<string name="jetpack_use_com_account">Untuk menambah laman Jetpack anda, log masuk ke akaun WordPress.com yang anda gunakan untuk menyambung Jetpack.</string>
-	<string name="jetpack_message">Pemalam Jetpack mesti dipasang dan diaktifkan. Anda ingin memasang atau mengaktifkan Jetpack?</string>
 	<string name="error_media_load">Tidak dapat memuat media</string>
 	<string name="error_media_refresh_no_connection">Sambungan diperlukan untuk menyegar semula pustaka</string>
 	<string name="error_media_unauthorized">Anda tidak mempunyai kebenaran melihat atau menyunting media</string>
@@ -586,8 +585,6 @@ Language: ms
 	<string name="enter_your_password_instead">Sebaliknya masukkan kata laluan anda</string>
 	<string name="web_address_dialog_hint">Tunjukkan kepada umum apabila anda mengulas.</string>
 	<string name="username_email">Emel atau nama pengguna</string>
-	<string name="jetpack_not_connected_message">Pemalam Jetpack telah dipasang, tetapi tidak dihubungkan ke WordPress.com. Adakah anda ingin menghubungkan Jetpack?</string>
-	<string name="jetpack_not_connected">Pemalam Jetpack tidak dihubungkan</string>
 	<string name="new_editor_reflection_error">Penyunting visual tidak serasi dengan peranti anda. Ia dinyah boleh\nsecara automatik</string>
 	<string name="stats_insights_latest_post_no_title">(tiada tajuk)</string>
 	<string name="capture_or_pick_photo">Tangkap atau pilih gambar</string>
@@ -1249,7 +1246,6 @@ Language: ms
 	<string name="reader_toast_err_remove_tag">Tidak dapat membuang tag ini</string>
 	<string name="reader_toast_err_add_tag">Tidak dapat menambah tag ini</string>
 	<string name="reader_title_applog">Log aplikasi</string>
-	<string name="jetpack_message_not_admin">Pemalan Jetpack diperlukan. Hubungi pentadbir laman.</string>
 	<string name="fatal_db_error">Ralat berlaku semasa mencipta pangkalan data aplikasi. Cuba memasangnya semula.</string>
 	<string name="error_blog_hidden">Blog ini disembunyi dan tidak dapat dimuatkan. Bolehkan ia semula dalam tetapan dan cuba lagi.</string>
 	<string name="error_refresh_media">Media tidak dapat disegar semula pada masa ini</string>
@@ -1384,7 +1380,6 @@ Language: ms
 	<string name="reader_btn_follow">Ikut</string>
 	<string name="reader_btn_share">Kongsi</string>
 	<string name="reader_untitled_post">(Tanpa tajuk)</string>
-	<string name="jetpack_not_found">Pemalam Jetpack tidak dijumpai</string>
 	<string name="empty_list_default">Senarai ini kosong</string>
 	<string name="media_add_popup_title">Tambah ke pustaka media</string>
 	<string name="passcode_turn_on">Pasangkan kunci PIN</string>

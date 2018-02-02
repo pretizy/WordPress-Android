@@ -305,7 +305,6 @@ Language: ja_JP
 	<string name="checking_username">ユーザー名の確認</string>
 	<string name="jetpack_different_com_account">別の WordPress.com アカウントに属している Jetpack サイトはサポートされません。</string>
 	<string name="jetpack_use_com_account">ご使用の Jetpack サイトを追加するには、Jetpack への接続に使用した WordPress.com アカウントにログインしてください。</string>
-	<string name="jetpack_message">Jetpack プラグインがインストールされており、有効になっている必要があります。Jetpack をインストールまたは有効化しますか ?</string>
 	<string name="error_media_load">メディアを読み込めません</string>
 	<string name="error_media_refresh_no_connection">ライブラリのリフレッシュに接続が必要</string>
 	<string name="error_media_unauthorized">メディアを表示または編集する権限がありません</string>
@@ -485,8 +484,6 @@ Language: ja_JP
 	<string name="enter_your_password_instead">代わりにパスワードを入力</string>
 	<string name="web_address_dialog_hint">コメントする際に公開表示されます。</string>
 	<string name="username_email">メールアドレスまたはユーザー名</string>
-	<string name="jetpack_not_connected_message">Jetpack プラグインがインストールされていますが、WordPress.com と連携されていません。Jetpack との連携を行いますか ?</string>
-	<string name="jetpack_not_connected">Jetpack プラグインが連携されていません</string>
 	<string name="new_editor_reflection_error">ビジュアルエディターはお使いの端末との互換性がありません。自動で無効化されました。</string>
 	<string name="stats_insights_latest_post_no_title">(タイトルなし)</string>
 	<string name="capture_or_pick_photo">写真を撮影または選択</string>
@@ -1223,7 +1220,6 @@ Language: ja_JP
 	<string name="remove_account">サイトを削除</string>
 	<string name="notifications_empty_all">通知はまだありません。</string>
 	<string name="invalid_site_url_message">入力したサイト URL が正しいか確認してください</string>
-	<string name="jetpack_message_not_admin">Jetpack プラグインが必要です。サイト管理者にご連絡ください。</string>
 	<string name="file_error_create">メディアアップロードの際に一時ファイルを作成できませんでした。端末上に空き容量があるか確認してください。</string>
 	<string name="error_refresh_media">メディアファイルを再読み込みできませんでした</string>
 	<string name="error_deleting_page">ページの削除中にエラーが発生しました</string>
@@ -1270,7 +1266,6 @@ Language: ja_JP
 	<string name="reader_label_removed_tag">%s を削除</string>
 	<string name="reader_likes_only_you">「いいね」をつけました</string>
 	<string name="username_invalid">無効なユーザー名</string>
-	<string name="jetpack_not_found">Jetpack プラグインが見つかりません</string>
 	<string name="reader_toast_err_view_image">画像を表示できません</string>
 	<string name="reader_toast_err_tag_exists">すでにこのタグをフォロー中です</string>
 	<string name="reader_toast_err_tag_invalid">有効なタグではありません</string>
